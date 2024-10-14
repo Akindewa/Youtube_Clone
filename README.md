@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+@@ -0,0 +1,64 @@
+# React + Vite: Youtube_Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+##  Overview
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ ####  Overview
+ This project is a YouTube clone built using React and Vite. It mimics core functionalities of YouTube, allowing users to  browse and view video content, explore different channels, and interact with various features. It's a beginner-friendly  project designed to solidify fundamental React skills.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ ####  Below are the key features:
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Features:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ -   Video Playback: Users can click on video thumbnails to watch videos, with a detailed view similar to YouTube.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ -   Channel Display: Users can browse different channels and view channel information, including subscriber count and   videos.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ -   Responsive Design: The layout adapts seamlessly to mobile and desktop views for an optimal user experience
 
-### `npm run eject`
+ -   Search Functionality: Users can search for videos using a search bar to quickly find content of interest.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ -  Routing: The app uses React Router to handle navigation between different pages, such as video pages and channel pages.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ -  Filter Tasks: Users can filter tasks by status—All, Active, or Completed tasks.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ -   Video Thumbnails: Dynamically renders video thumbnails for users to click on and explore content.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Screenshot (desktop and mobile view)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![desktop](/images/desktop.jpg)
 
-### Analyzing the Bundle Size
+![mobile](/images/mobile.jpg)
+ 
+### Links
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[[Code Link]](https://github.com/Akindewa/Youtube_Clone.git)
 
-### Making a Progressive Web App
+[[Live-Link]](https://youtube-clone-kappa-hazel.vercel.app/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### [Built with]
 
-### Advanced Configuration
+- REACT
+- MATERIAL UI
+- RAPID API
+- HTML 
+- CSS
+- JAVASCRIPT
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+

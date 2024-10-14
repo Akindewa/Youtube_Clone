@@ -17,9 +17,6 @@ const App = () =>  (
 
         </Box>
     </BrowserRouter>
-
-    )
-
-
+);
 
 export default App;
